@@ -6,7 +6,7 @@
     -webkit-font-snoothing: antialiased;
 }
 
-:root {
+
     --bg-color: #f4f6fa;
     --bg-span: #f4f6fa;
     --color-span: #626c7f;
@@ -14,7 +14,7 @@
     --purple-hover: rgba(167, 41, 245, 0.7);
     --white: #fff;
     --button-bg: #fff;
-    --shadow: 0px 16px 40px 0px rgba(143, 160, 193, 0.14);
+    --shadow: 0px 16px 40px 0px rg:root {ba(143, 160, 193, 0.14);
     --bg-html: #fff1e9;
     --bg-css: #e0fdef;
     --bg-javacript: #ebf0ff;
