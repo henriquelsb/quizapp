@@ -15,7 +15,25 @@
     --white: #fff;
     --pontuacao-bg: #fff;
     --shadow: 0px 16px 40px 0px rgba(143, 160, 193, 0.14);
-  px 40px 0px rgba(49, 62, 81, 0.14);
+    --bg-html: #fff1e9;
+    --bg-css: #e0fdef;
+    --bg-javacript: #ebf0ff;
+    --bg-acessibilidade: #f6e7ff;
+    --primary-text-color: #313e51;
+    --secondary-text-color: #626c7f;
+    --bg-mobile: url(../../assets/images/pattern-background-mobile-light.svg);
+    --bg-desktop: url(../../assets/images/pattern-background-desktop-light.svg);
+}
+
+body.escuro {
+    --bg-color: #313e51;
+    --color-span: #313e51;
+    --bg-mobile: url(../../assets/images/pattern-background-mobile-dark.svg);
+    --bg-desktop: url(../../assets/images/pattern-background-desktop-dark.svg);
+    --primary-text-color: #fff;
+    --secondary-text-color: #abc1e1;
+    --pontuacao-bg: #3b4d66;
+    --shadow: 0px 16px 40px 0px rgba(49, 62, 81, 0.14);
 }
 
 body {
