@@ -101,23 +101,7 @@ header {
     width: 16px;
 }
 
-.tema button {
-    height: 20px;
-    width: 32px;
-    background: var(--purple);
-    border: 0;
-    border-radius: 999px;
-    padding: 4px;
-    display: flex;
-    cursor: pointer;
-}
 
-.tema button div {
-    background: var(--white);
-    width: 12px;
-    height: 12px;
-    border-radius: 999px;
-}
 
 main {
     padding: 32px 24px;
